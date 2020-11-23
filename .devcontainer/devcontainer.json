@@ -18,6 +18,7 @@
 
 	// remote接続先でインストールするExtension
 	"extensions": [
+		"rust-lang.rust",
 		"vscodevim.vim",
 		"mhutchie.git-graph",
 		"vscode-icons-team.vscode-icons",
